@@ -5,7 +5,7 @@ Simpson's 1/3 Rule for numerical integration, applied to a table
 of half-ordinates (half-breadths) at equally spaced stations.
 
 Commonly used in naval architecture to calculate hull properties
--- such as waterplane area, displacement, centers of flotation (LCF)
+- such as waterplane area, displacement, centers of flotation (LCF)
 and buoyancy (LCB), and moments of inertia -- from a table
 of offsets. Unlike closed-form geometric formulas(for eg -> Wall sided formula), Simpson's Rule
 requires no assumption about hull shape, making it applicable to

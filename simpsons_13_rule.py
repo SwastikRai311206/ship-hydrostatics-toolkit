@@ -1,5 +1,5 @@
 """
-simpsons_rule.py
+simpsons_13_rule.py
 ----------------
 Simpson's 1/3 Rule for numerical integration, applied to a table
 of half-ordinates (half-breadths) at equally spaced stations.
